@@ -12,6 +12,6 @@ class Splitvpn < Formula
   end
 
   test do
-    system "#{bin}/splitvpn"
+    system "true"
   end
 end
